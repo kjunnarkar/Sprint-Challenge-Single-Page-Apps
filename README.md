@@ -29,6 +29,8 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 > Answer:
 
+Client-side routing is a Javascript managed routing option. It offers control over the site URL and content. Client-side routing solves speed and efficiency problems because the browser does not send a request to the server for content and so it does not have to wait for the content to be delivered by the server.
+
 ## Project Set Up
 
 Follow these steps to set up and work on your project:
